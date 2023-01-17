@@ -6,3 +6,5 @@
 
 ### js
 ссылки на описания задач [objectExpression](https://www.kgeorgiy.info/courses/paradigms/lectures/jsobjects.html), [functionalExpression](https://www.kgeorgiy.info/courses/paradigms/lectures/jsfunctions.html)
+### prolog
+не парсер, но задача на поиск простых чисел на языке [пролог](https://en.wikipedia.org/wiki/Prolog) 
